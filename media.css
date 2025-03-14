@@ -1,0 +1,94 @@
+@media (max-width: 300px) {
+  .ul {
+    display: none;
+  }
+  .intiro {
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: auto;
+  }
+  .intiro__title {
+    width: 280px;
+    text-align: center;
+    font-size: 40px;
+  }
+  .intiro__left {
+    position: relative;
+    bottom: 460px;
+  }
+  .intiro__rght {
+    position: relative;
+    top: 300px;
+  }
+  .intiro__img {
+    display: block;
+    position: relative;
+    width: 280px;
+    height: 300px;
+  }
+  .container {
+    height: auto;
+  }
+  .intiro__text {
+    width: 200px;
+    text-align: center;
+    font-size: 16px;
+    margin-left: 40px;
+  }
+  .intiro__input {
+    width: 260px;
+    height: 50px;
+    display: block;
+    margin: 0 auto;
+  }
+
+  .time__card {
+    flex-wrap: wrap;
+    flex-direction: column;
+  }
+  .about__divv {
+    flex-wrap: wrap;
+  }
+  .about__img {
+    width: 140px;
+    height: 150px;
+    margin: 0;
+  }
+  .about__cards {
+    margin-top: 30px;
+    padding: 10px;
+    width: 280px;
+  }
+  .about__title {
+    font-size: 15px;
+  }
+  .about__card {
+    position: relative;
+    right: 15px;
+  }
+  .cards__imgg {
+    width: 70px;
+  }
+  .section__time {
+    flex-wrap: wrap;
+    margin: 50px auto;
+  }
+  .title__h4 {
+    text-align: center;
+    width: 280px;
+  }
+  .text__ppp {
+    text-align: center;
+    width: 280px;
+  }
+  .input__email {
+    width: 260px;
+    display: block;
+    margin: 10px auto;
+  }
+  .img__tem {
+    width: 250px;
+    height: 270px;
+  }
+}
